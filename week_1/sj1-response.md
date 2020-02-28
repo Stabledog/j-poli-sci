@@ -1,11 +1,9 @@
 ### SJ1 *(Munday - "A Translation Studies Perspective")
 
 #### In response to:
-```
-The specification of the translation environment is certainly
-complex. The wide range of extra-textual factors, including the socio-cultural, political and ideological (in its wide cognitive sense of “a special type of socially shared mental representations”), are far from easy to differentiate…”
-p.43
-```
+*The specification of the translation environment is certainly complex. The wide range of extra-textual factors, including the socio-cultural, political and ideological (in its wide cognitive sense of “a special type of socially shared mental representations”), are far from easy to differentiate…”
+**p.43***
+
 Munday has a point: translation is an inherently complex activity, and the naive idea that there's a literal one-to-one correspondence between source terms and a unique and unambiguous "equivalent" expression" in another language can be safely dismissed.  This activity is hard: the meaning of any utterance can be challenging to derive even without crossing a language boundary -- the difficulty of communication between identical twins raised in the same family might be charted as a function of the subtlety of the message, but the less twin-like the parties become, the more the complications multiply and content quickly weighs less than context in telling the story of the problem faced by translators.
 
 How do we even identify the categories of factors that affect the quality of a translation?  He mentions "socio-cultural, political, and ideological" differences but these are vast generalities -- a finer-grained enumeration of what those terms mean specifically in any given situation would itself be a long job.
