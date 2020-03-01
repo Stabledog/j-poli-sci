@@ -12,3 +12,5 @@ Heideggerian word-mysticism (according to which "untranslatability is the criter
 
 [Asymptote - site devoted to world literature translation](https://www.asymptotejournal.com/about/)
 
+## Barbara Cassin
+She quotes Heidegger as saying "Heidegger thinks that Western thought... only in German... rises to the level of Greek (for philosophy) and 'untranslatability finally becomes the criterion of truth'" (Lefebvre)
