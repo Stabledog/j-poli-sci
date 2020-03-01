@@ -16,6 +16,8 @@ R 1/9 Barbara Cassin – Dictionary of Untranslatables; “Introduction”
 
 “To speak of *untranslatables* in no way implies that the terms in question, or the expressions, the syntactical or grammatical turns, are not and cannot be translated: the untranslatable is rather what one keeps on (not) translating. But this indicates that their translation, into one language or another, creates a problem, to the extent of sometimes generating a neologism or impos- ing a new meaning on an old word. It is a sign of the way in which, from one language to another, neither the words nor the conceptual networks can simply be superimposed.” p.xvii
 
+---
+
 **Week 2 –The Translator’s Invisibility**
 
 T 1/14 Lawrence Venuti – *The Translator’s Invisibility*, Chapter 1 **SJ
@@ -50,6 +52,8 @@ medieval literature with preconceptions derived from the modern Western
 idea of a bounded, cohesive ‘text’ produced to be silently consumed by
 solitary readers.” p.273
 
+---
+
 **Week 3 - “Authentic” Translations**
 
 T 1/21 Walter Benjamin – “The Task of The Translator” S**J5**
@@ -63,6 +67,8 @@ R 1/23 The *Tao Te Ching* in 3 Versions **SJ 6**
 
 Choose and analyze an interesting difference between the three versions
 of the text we read.
+
+---
 
 **Week 4 – Cultural Translation**
 
@@ -86,6 +92,8 @@ system, to be journeying towards a new system that surpasses Capitalism
 and modernity in a definitive way. Seen this way, interculturality
 becomes one of the most convenient forms to overcome development and
 journey towards sumak kawsay.” Monica Chuji, p. 3
+
+---
 
 **Week 5 - Localization and Capitalism**
 
@@ -125,6 +133,7 @@ student must know about the many tainted areas of the Nihon Shoki.
 Without curing oneself of the bewildering disease of Chinese learning,
 the worth sections of Kojiki will not be obvious…
 
+---
 **Week 7 – Genre and Experience**
 
 T 2/18 Karatani Kojin – *The Origins of Modern Japanese Literature*, Ch.
@@ -150,6 +159,7 @@ together by a promise of loyalty.’
 
 ‘And why should we follow the customs of infidels?’ Fatima interjected
 while washing her hands”
+---
 
 **Week 8 – Postcolonial Translation**
 
@@ -174,6 +184,7 @@ language so that I could understand your orders… All because you’re too
 lazy to do \[things\] yourself. And as for your learning, did you ever
 impart any of that to me? No you took care not to. All your science you
 keep for yourself alone, shut up in those big books.
+---
 
 **Week 9 –Translations as Mediation**
 
@@ -190,6 +201,7 @@ element of emotional comprehension.”
 
 R 3/6 No Lecture. Work on your journals! Extra OH to look at SJs
 
+---
 **Week 10 – Translation and Aesthetics **
 
 M 3/11 Davide Panagia – “Why Film Matters for Political Theory” **SJ
