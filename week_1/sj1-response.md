@@ -16,6 +16,6 @@ If the target context is deficient of the distinctions that compose the message,
 
 Then returning to the social and political focus of Munday's essay, one cannot dispute that the translator's "agenda" stands tall among the quality-endangering forces:  when Donald Trump says "it was a perfect phone call", we're being treated to a representation of events which is so thoroughly bathed in the speaker's goals that it barely counts as a form of communication at all. Munday's list of agenda-driven translation stories does a fair job of outlining some of the ways that translators become less than perfect mirrors when their goals or functional constraints bend the beam in unspoken ways.
 
-(509 words)
+(451 words)
 
 
