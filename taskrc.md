@@ -17,4 +17,5 @@ function to_html {
     [[ -f $1 ]] || { echo "ERROR: No markdown file provided in \$1"; return; }
     pandoc -s -f markdown  -t html $1 > ${1/\.md/.html}
 }
+source_taskrc ./week_1
 ```
