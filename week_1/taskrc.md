@@ -1,13 +1,17 @@
 # Week 1 - Munday
 
-See [sj1-response.md]()
+- See [../taskrc.md] for context
+
+- See [sj1-response.md] for Munday **SJ 1**
 
 ---
-# Week 1 - Cassin
-See [s2j-response.md]
-SJ2: “To speak of untranslatables in no way implies that the terms in question, or the expressions, the syntactical or grammatical turns, are not and cannot be translated: the untranslatable is rather what one keeps on (not) translating. But this indicates that their translation, into one language or another, creates a problem, to the extent of sometimes generating a neologism or imposing a new meaning on an old word. It is a sign of the way in which, from one language to another, neither the words nor the conceptual networks can simply be superimposed.” p.xvii
+## **SJ 2** - Week 1 - Cassin
+- See [s2j-response.md]
 
-## Re: Barbara Cassin's intro to her book (xvii-xx)
+### The statement is **SJ 2**:
+“To speak of untranslatables in no way implies that the terms in question, or the expressions, the syntactical or grammatical turns, are not and cannot be translated: the untranslatable is rather what one keeps on (not) translating. But this indicates that their translation, into one language or another, creates a problem, to the extent of sometimes generating a neologism or imposing a new meaning on an old word. It is a sign of the way in which, from one language to another, neither the words nor the conceptual networks can simply be superimposed.” p.xvii
+
+### Re: Barbara Cassin's intro to her book (xvii-xx)
 She distinguishes the perspective of the book from 2 positions:
 
 ### [a]- A "logical universalism indifferent to languages" (with "English as the auxiliary international language")
@@ -39,3 +43,4 @@ Philosophy works on the premise that the words we use hide unsuspected implicati
 Heideggerian word-mysticism (according to which "untranslatability is the criterion of truth")
 
 [Asymptote - site devoted to world literature translation](https://www.asymptotejournal.com/about/)
+

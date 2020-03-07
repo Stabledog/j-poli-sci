@@ -6,9 +6,9 @@
 
 #####  Response:
 
-It's tempting to challenge Ms. Cassin's introduction to her massive volume on the basis that it's foreshadowing the subsequent material in finding the most verbose and twisty way to say what otherwise be made readily accessible to mere humans.  One could satirize the Introduction as "2000 words doing the work of 500" and launch a story about academic tomes being sold by weight instead of value.  But such a challenge carries risk: I can't promise that the gist of all 2000 words of the introduction were clearly understood, let alone the densely packed 12 pages following, and in any case the whole volume was itself translated from French to English, so might not some of the critique be owed to the translator?  Out of my league and lacking the confidence to fling darts at the Mona Lisa for failing to smile properly, I'll settle for commenting on the frame of the painting.
+While it's tempting to challenge Ms. Cassin's introduction to her massive volume on the basis that it's foreshadowing the subsequent reading material by pursuing the most verbose and contorted way to say what might otherwise be made readily accessible to ordinary readers, we should possibly consider the moral development value of resisting the temptation to satirize the Introduction as "2000 words doing the work of 500" and avoid launching a story about academic tomes that are sold by weight instead of value. Additionally, such an approach carries risk: I can't promise that the gist of all 2000 words of the introduction were clearly understood, let alone the densely packed 12 pages following, and in any case the whole volume was itself translated from French to English, so might not some of the critique be owed to the translator? Out of my league and lacking the confidence to fling darts at the Mona Lisa for failing to smile properly, I'll settle for commenting on the frame of the painting.
 
-A candidate reduction of the given statement *(yes, Virginia: some things really are given)* is "stuff gets lost in translation, and that can make problems.  You can't just think you're speed-matching equal groups of boys and girls for dance class."
+A candidate reduction of the given statement *(yes, Virginia, some things really are given!)* is "stuff gets lost in translation, and that can make problems.  You can't just think you're speed-matching equal groups of boys and girls for dance class."
 
 Ms. Cassin's use of "creates a problem" to characterize untranslatability suggests a value system yet to be revealed which outlines the quality metrics for the results of translating -- as if we all know already what we're trying to achieve, and if we fail at that we say that we "untranslated", and the result is a problem of some kind.  And yet, much of the material in the reading suggests that the distinctions which qualify success in translation are still subject to debate.  If we don't know what "good" means, how upset should we be about our score?
 
@@ -22,6 +22,6 @@ In short, if we're going to talk a lot about "translation" and what gets lost or
 
 
 
-(xxx words)
+(588 words)
 
 
