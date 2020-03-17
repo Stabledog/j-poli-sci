@@ -5,17 +5,10 @@
 ** T 1/14 Lawrence Venuti – *The Translator’s Invisibility*, Chapter 1 **SJ
 3**
 
-“The dominance of transparency in English-language translation reflects
-comparable trends in other cultural forms, including other forms of
-writing. The enormous economic and political power acquired by
-scientific research during the twentieth century, the postwar
-innovations in advanced communications technologies to expand the
-advertising and entertainment industries and support the economic cycle
-of commodity production and exchange—these developments have affected
-every medium, both print and electronic, by valorizing a purely
-instrumental use of language and other means of representation and thus
-emphasizing immediate intelligibility and the appearance of factuality.”
+“The dominance of transparency in English-language translation reflects comparable trends in other cultural forms, including other forms of writing. The enormous economic and political power acquired by scientific research during the twentieth century, the postwar innovations in advanced communications technologies to expand the advertising and entertainment industries and support the economic cycle of commodity production and exchange—these developments have affected every medium, both print and electronic, by valorizing a purely instrumental use of language and other means of representation and thus emphasizing immediate intelligibility and the appearance of factuality.”
 p.5
+
+- p5 He's making  good point: it's as if the translator is aiming the translation to slide without friction into an existing frame of reference, and this is taken for fidelity.
 
 ---
 ### SJ 4 Statement:
