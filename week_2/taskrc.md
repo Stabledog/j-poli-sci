@@ -13,8 +13,8 @@ p.5
 ---
 ### SJ 4 Statement:
 
-> R 1/16 Richard Burton – Selections from *The Arabian Nights*; D.S.
-Richards – “One Thousand and One Nights – A History of the Text and Its Reception.”
+> R 1/16 Richard Burton – Selections from *The Arabian Nights*; D.S. Richards – “One Thousand and One Nights – A History of the Text and Its Reception.”
+(Note: the selection description is inaccurate: the author of this piece (p270-291) is neither Richard Burton or D.S. Richards, it's Dwight F. Reynolds)
 
 
 “Thus an accurate portrayal of the *Nights* in pre-modern Arabic

@@ -35,22 +35,11 @@ instrumental use of language and other means of representation and thus
 emphasizing immediate intelligibility and the appearance of factuality.”
 p.5
 
-R 1/16 Richard Burton – Selections from *The Arabian Nights*; D.S.
-Richards – “One Thousand
+R 1/16 Richard Burton – Selections from *The Arabian Nights*; D.S. Richards – “One Thousand and One Nights – A History of the Text and Its Reception.” **SJ 4**
 
-and One Nights – A History of the Text and Its Reception.” **SJ 4**
+“Thus an accurate portrayal of the *Nights* in pre-modern Arabic literature must situate it within the rather fluid stratum of popular fictional literary production and as a work that was in many ways undifferentiated from a large body of similar texts. Many of these popular narratives and collections were compiled and copied not for personal, silent reading, but rather to function as the basis for public story-telling performances…. It would therefore be singularly inappropriate to approach a work drawn from this domain of popular medieval literature with preconceptions derived from the modern Western idea of a bounded, cohesive ‘text’ produced to be silently consumed by solitary readers.”
 
-“Thus an accurate portrayal of the *Nights* in pre-modern Arabic
-literature must situate it within the rather fluid stratum of popular
-fictional literary production and as a work that was in many ways
-undifferentiated from a large body of similar texts. Many of these
-popular narratives and collections were compiled and copied not for
-personal, silent reading, but rather to function as the basis for public
-story-telling performances…. It would therefore be singularly
-inappropriate to approach a work drawn from this domain of popular
-medieval literature with preconceptions derived from the modern Western
-idea of a bounded, cohesive ‘text’ produced to be silently consumed by
-solitary readers.” p.273
+p.273
 
 ---
 
