@@ -45,7 +45,7 @@ p.273
 
 **Week 3 - “Authentic” Translations**
 
-T 1/21 Walter Benjamin – “The Task of The Translator” S**J5**
+T 1/21 Walter Benjamin – “The Task of The Translator” **SJ 5**
 
 “Translation is so far removed from being the sterile equation of two
 dead languages that of all literary forms it is the one charged with the
@@ -61,8 +61,7 @@ of the text we read.
 
 **Week 4 – Cultural Translation**
 
-T 1/28 Sarah Maitland – *What is Cultural Translation*? Chapter 1
-**SJ7**
+T 1/28 Sarah Maitland – *What is Cultural Translation*? Chapter 1 **SJ 7**
 
 “To qualify as cultural translation a phenomenon of human expression in
 the social sphere must be shown to engage in a contemplative work of
@@ -97,10 +96,9 @@ cautiously remarks that the flow of cultural dominance for consoles and
 many major games is currently in the direction from East to West, “with
 Japan leading production, the USA and Europe following.”
 
-**Week 6 – Translation and Bordering **
+**Week 6 – Translation and Bordering**
 
-T 2/11 Naoki Sakai – “Translation and the Figure of the Border” **SJ
-10**
+T 2/11 Naoki Sakai – “Translation and the Figure of the Border” **SJ 10**
 
 How do we recognize the identity of each language - that is, justify
 presuming that languages can be categorized in terms of one and many? Is
@@ -152,8 +150,7 @@ while washing her hands”
 
 **Week 8 – Postcolonial Translation**
 
-T 2/25 Edouard Glissant – Selections from *The Poetics of Relation* **SJ
-14**
+T 2/25 Edouard Glissant – Selections from *The Poetics of Relation* **SJ 14**
 
 The root is unique, a stock taking aIl upon itse1f and killing aIl
 around it. In opposition ta this they propose the rhizome, an enmeshed
@@ -173,9 +170,10 @@ language so that I could understand your orders… All because you’re too
 lazy to do \[things\] yourself. And as for your learning, did you ever
 impart any of that to me? No you took care not to. All your science you
 keep for yourself alone, shut up in those big books.
+
 ---
 
-**Week 9 –Translations as Mediation**
+**Week 9 – Translations as Mediation**
 
 T 3/4 Monique Bedasse – “The Wages of Blackness.” **SJ 16** *Listen to
 the Reggae playlist on the website*.
@@ -191,10 +189,10 @@ element of emotional comprehension.”
 R 3/6 No Lecture. Work on your journals! Extra OH to look at SJs
 
 ---
-**Week 10 – Translation and Aesthetics **
 
-M 3/11 Davide Panagia – “Why Film Matters for Political Theory” **SJ
-17**
+**Week 10 – Translation and Aesthetics**
+
+M 3/11 Davide Panagia – “Why Film Matters for Political Theory” **SJ 17**
 
 I might put the matter this way: a clear argument is nothing other than
 a series of discontinuous impressions, retroactively assembled according
