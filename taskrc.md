@@ -16,8 +16,9 @@ Rough content:
 ```bash
 
 function make_rough_html {
+    #Help assemble the rough-mdfiles into a single html
     cd $taskrc_dir
-    pandoc -s -f markdown -t html $(cat rough-mdfiles) > rough.html || return
+    pandoc -s -f markdown -T "SJ-notes" -t html $(cat rough-mdfiles) > rough.html || return
     echo "Updated: $(ls -l rough.html)"
 }
 
@@ -26,5 +27,5 @@ function to_html {
     [[ -f $1 ]] || { echo "ERROR: No markdown file provided in \$1"; return; }
     pandoc -s -f markdown  -t html $1 > ${1/\.md/.html}
 }
-#source_taskrc ./week_1
+
 ```
