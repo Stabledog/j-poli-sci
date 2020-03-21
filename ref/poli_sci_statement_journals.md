@@ -47,15 +47,11 @@ p.273
 
 T 1/21 Walter Benjamin – “The Task of The Translator” **SJ 5**
 
-“Translation is so far removed from being the sterile equation of two
-dead languages that of all literary forms it is the one charged with the
-special mission of watching over the maturing process of the original
-language and the birth pangs of its own.” p.256
+“Translation is so far removed from being the sterile equation of two dead languages that of all literary forms it is the one charged with the special mission of watching over the maturing process of the original language and the birth pangs of its own.” p.256
 
 R 1/23 The *Tao Te Ching* in 3 Versions **SJ 6**
 
-Choose and analyze an interesting difference between the three versions
-of the text we read.
+Choose and analyze an interesting difference between the three versions of the text we read.
 
 ---
 
