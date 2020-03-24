@@ -17,7 +17,7 @@ I find a touch of hilarity on p17-18 (p4-5 relative) in which she states confide
 
 Where's the hilarity?  Well... everything that follows "values and beliefs are culturally constructed" is itself a statement of values and beliefs that seem to be claiming status as transcendent truth.  This could all be restated with less posturing and greater self-awareness:  "All values and beliefs except mine are culturally constructed."
 
-The text is printed by Shambhala in Boulder, CO -- famous mainly for their endless flooding of the market with "spiritual guidance" translated for Westerners from exotic foreign authorities.  So I bet this sold well.
+The text is printed by Shambhala in Boulder, CO -- famous mainly for their endless flooding of the market with "spiritual guidance" from exotic foreign authorities translated for Westerners who are "discovering the ancient truths."  So I bet this sold well.
 
 Version 1 has no footnotes at all, as Addiss and Lombardo seem more conservative in believing that the reader is more interested in the translated text than their personal views of life and enlightenment.  It's also beautifully rendered, with ideograms presumably from the source decorating each page and a classic-poetry typography and indenting style, suggesting that the Tao transcends the words on the page perhaps.
 

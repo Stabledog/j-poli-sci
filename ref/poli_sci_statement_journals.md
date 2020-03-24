@@ -70,7 +70,7 @@ Sumak Kawsay or Living Well but not Better”; Javier Cuestas-Caza “Sumak
 Kawsay is not Buen Vivir” **SJ 8**
 
 “I believe that interculturality must be put in a framework to find
-bridges in the transition between civilizactions. That is to say,
+bridges in the transition between civilizations. That is to say,
 interculturality must be the form by which we conserve the best of this
 system, to be journeying towards a new system that surpasses Capitalism
 and modernity in a definitive way. Seen this way, interculturality
